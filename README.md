@@ -45,19 +45,19 @@ There was no instruction like how the schema of the table should like of the fif
 
 ## Here are some screenshots
 
-![Alt text](screenshots\Screenshot 2024-07-14 160011.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160030.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160050.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160108.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160122.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160138.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160149.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160202.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160222.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160303.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160315.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160330.png)
-![Alt text](screenshots\Screenshot 2024-07-14 160342.png)
+![List all the database](./screenshots/Screenshot 2024-07-14 160011.png)
+![Create a brand new database](./screenshots/Screenshot 2024-07-14 160030.png)
+![List of all the tables in the database](./screenshots/Screenshot 2024-07-14 160050.png)
+![Columns of the galaxy table](./screenshots/Screenshot 2024-07-14 160108.png)
+![Columns of the star table](./screenshots/Screenshot 2024-07-14 160122.png)
+![Columns of the planet table](./screenshots/Screenshot 2024-07-14 160138.png)
+![Columns of the moon table](./screenshots/Screenshot 2024-07-14 160149.png)
+![Columns of the observation table](./screenshots/Screenshot 2024-07-14 160202.png)
+![Rows of galaxy table](./screenshots/Screenshot 2024-07-14 160222.png)
+![Rows of star table](./screenshots/Screenshot 2024-07-14 160315.png)
+![Rows of planet table](./screenshots/Screenshot 2024-07-14 160303.png)
+![Rows of moon table](./screenshots/Screenshot 2024-07-14 160330.png)
+![Rows of observation table](./screenshots/Screenshot 2024-07-14 160342.png)
 
 ## License
 
